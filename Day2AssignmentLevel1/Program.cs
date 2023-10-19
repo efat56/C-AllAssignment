@@ -120,8 +120,9 @@ class Program
         Console.WriteLine($"Color: {bicycle.Color}");
         Console.WriteLine($"Number of Gears: {bicycle.NumberOfGears}");
         Console.WriteLine($"Frame Material: {bicycle.FrameMaterial}");
-        bicycle.Start();  // Note: This is a common method inherited from the base class
+        bicycle.Start(); 
         bicycle.Pedal();
+        bicycle.Stop();
 
         Console.WriteLine("\nMotorcycle Details:");
         Console.WriteLine($"Make: {motorcycle.Make}");
