@@ -1,0 +1,14 @@
+C:\Users\fool\OneDrive\Desktop\C#Assignment\AssignmentDay3Level\bin\Debug\net6.0\AssignmentDay3Level.exe
+C:\Users\fool\OneDrive\Desktop\C#Assignment\AssignmentDay3Level\bin\Debug\net6.0\AssignmentDay3Level.deps.json
+C:\Users\fool\OneDrive\Desktop\C#Assignment\AssignmentDay3Level\bin\Debug\net6.0\AssignmentDay3Level.runtimeconfig.json
+C:\Users\fool\OneDrive\Desktop\C#Assignment\AssignmentDay3Level\bin\Debug\net6.0\AssignmentDay3Level.dll
+C:\Users\fool\OneDrive\Desktop\C#Assignment\AssignmentDay3Level\bin\Debug\net6.0\AssignmentDay3Level.pdb
+C:\Users\fool\OneDrive\Desktop\C#Assignment\AssignmentDay3Level\obj\Debug\net6.0\AssignmentDay3Level.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fool\OneDrive\Desktop\C#Assignment\AssignmentDay3Level\obj\Debug\net6.0\AssignmentDay3Level.AssemblyInfoInputs.cache
+C:\Users\fool\OneDrive\Desktop\C#Assignment\AssignmentDay3Level\obj\Debug\net6.0\AssignmentDay3Level.AssemblyInfo.cs
+C:\Users\fool\OneDrive\Desktop\C#Assignment\AssignmentDay3Level\obj\Debug\net6.0\AssignmentDay3Level.csproj.CoreCompileInputs.cache
+C:\Users\fool\OneDrive\Desktop\C#Assignment\AssignmentDay3Level\obj\Debug\net6.0\AssignmentDay3Level.dll
+C:\Users\fool\OneDrive\Desktop\C#Assignment\AssignmentDay3Level\obj\Debug\net6.0\refint\AssignmentDay3Level.dll
+C:\Users\fool\OneDrive\Desktop\C#Assignment\AssignmentDay3Level\obj\Debug\net6.0\AssignmentDay3Level.pdb
+C:\Users\fool\OneDrive\Desktop\C#Assignment\AssignmentDay3Level\obj\Debug\net6.0\AssignmentDay3Level.genruntimeconfig.cache
+C:\Users\fool\OneDrive\Desktop\C#Assignment\AssignmentDay3Level\obj\Debug\net6.0\ref\AssignmentDay3Level.dll
